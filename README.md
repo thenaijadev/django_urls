@@ -1,1 +1,1 @@
-# djurls
+# django_urls
